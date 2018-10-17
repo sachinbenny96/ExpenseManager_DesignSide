@@ -11,9 +11,6 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.DialogFragment;
 
 public class DatePickerFragment extends DialogFragment {
-
-
-
     @NonNull
     @Override
 
